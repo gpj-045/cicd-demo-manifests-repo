@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: gpjtech045/todo-app:36
+        image: gpjtech045/todo-app:37
         ports:
         - containerPort: 8000
