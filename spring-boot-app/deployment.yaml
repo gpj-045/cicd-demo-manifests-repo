@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: gpjtech045/java-cicd:12
+        image: gpjtech045/java-cicd:21
         ports:
         - containerPort: 8080
